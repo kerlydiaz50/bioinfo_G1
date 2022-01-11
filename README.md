@@ -1,2 +1,5 @@
-# bioinfo_G1
+# Bioinformática 
 Materiales para la materia de bioinformática
+
+## Presentaciones
+
